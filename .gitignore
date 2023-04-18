@@ -1,2 +1,4 @@
 *.cpanel.yml
 *.htaccess
+.cpanel.yml
+.htaccess
